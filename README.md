@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhiraj8434
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full stack weeb development
+- 🌱 I’m currently learning Full stack web development
 - 📫 How to reach me abhirajs245@gmail.com
 
 <!---
